@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <br/>
-<h4 align="center">A passionate developer from Turkey. I can say that I have a little knowledge in many fields. such as ASP.NET CORE , React.js ,Html, CSS, image manipulation, artificial intelligence. I can develop in most areas. However, I want to improve myself in mobile programming. I started mobile programming with java. After doing a few android projects with java, I started learning kotlin. I'm still developing with Kotlin.
-</h4>
+<h3 align="center">A passionate developer from Turkey. I can say that I have a little knowledge in many fields. such as ASP.NET CORE , React.js ,Html, CSS, image manipulation, artificial intelligence. I can develop in most areas. However, I want to improve myself in mobile programming. I started mobile programming with java. After doing a few android projects with java, I started learning kotlin. I'm still developing with Kotlin.
+</h3>
 
 <br/><br/>
 <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif"/>
