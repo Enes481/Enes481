@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <br/>
-<h3 align="center">A passionate developer from Turkey. I can say that I have a little knowledge in many fields. such as ASP.NET CORE , React.js ,Html, CSS, image manipulation, artificial intelligence. I can develop in most areas. However, I want to improve myself in mobile programming. I started mobile programming with java. After doing a few android projects with java, I started learning kotlin. I'm still developing with Kotlin. You can check out my Github projects to see what I'm working on.
+<h3 align="center">A passionate developer from Turkey. I have two years experience as an native android developer. I eager to learn. I know java and kotlin but I started learning swift and flutter.
 </h3>
 
 <br/><br/>
