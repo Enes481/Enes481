@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <br/>
-<h5 align="center">A passionate developer from TURKEY I have two years experience as an native android developer and I am research assistant right now. I eager to learn.
-</h5>
+<p align="center">A passionate developer from Turkey with two years of experience as a native Android developer. Currently, I am a research assistant with a strong eagerness to learn and explore new technologies, especially in the field of AI.
+</p>
 
 <br/><br/>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes481&label=Profile%20views&color=0e75b6&style=flat" alt="enes481" /> </p>
 
-- 🌱 I know **Kotlin**, **jetpack compose** , **Java** and I just started learning Flutter :)
+- 🌱 I have two years of experience as an Android developer, proficient in **Kotlin**, **Java**, and **Jetpack Compose**. Currently, I am focused on research and expanding my knowledge in AI and emerging technologies. 
 
-- 📫 How to reach me **enest5529@gmail.com**
+- 📫 How to reach me
+- Gmail: **enest5529@gmail.com**
+- Linkeln: **https://www.linkedin.com/in/enestigli/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
