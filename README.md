@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes481&label=Profile%20views&color=0e75b6&style=flat" alt="enes481" /> </p>
 
-- 🌱 I have two years of experience as an Android developer, proficient in **Kotlin**, **Java**, and **Jetpack Compose**. Currently, I am focused on research and expanding my knowledge in AI and emerging technologies. 
+- 🌱 I have two years of experience as an Android developer, proficient in **Kotlin**, **Java**, and **Jetpack Compose**. Currently, I am focused on research and expanding my knowledge in AI and emerging technologies. <div style="padding-right: 15px"></div>
 
 - 📫 How to reach me -> **enest5529@gmail.com**
 
