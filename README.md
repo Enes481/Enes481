@@ -9,9 +9,8 @@
 
 - 🌱 I have two years of experience as an Android developer, proficient in **Kotlin**, **Java**, and **Jetpack Compose**. Currently, I am focused on research and expanding my knowledge in AI and emerging technologies. 
 
-- 📫 How to reach me
-- Gmail: **enest5529@gmail.com**
-- Linkeln: **https://www.linkedin.com/in/enestigli/**
+- 📫 How to reach me -> **enest5529@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
