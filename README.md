@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <br/>
-<h1 align="center">A passionate developer from TURKEY I have two years experience as an native android developer and I am research assistant right now. I eager to learn.
-</h3>
+<h5 align="center">A passionate developer from TURKEY I have two years experience as an native android developer and I am research assistant right now. I eager to learn.
+</h5>
 
 <br/><br/>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif"/>
