@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <br/>
-<h3 align="center">A passionate developer from Turkey. I have two years experience as an native android developer. I eager to learn. I know java and kotlin but I started learning swift and flutter.
+<h1 align="center">A passionate developer from TURKEY I have two years experience as an native android developer and I am research assistant right now. I eager to learn.
 </h3>
 
 <br/><br/>
